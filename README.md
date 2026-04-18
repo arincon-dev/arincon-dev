@@ -1,5 +1,5 @@
 <p align="center">
-	    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:581c87,100:ec4899&height=220&section=header&text=Alvaro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20%7C%20Full-Stack%20%7C%20Game%20Dev&descAlignY=58&descSize=18" alt="Header banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:581c87,100:ec4899&height=220&section=header&text=Alvaro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20%7C%20Full-Stack%20%7C%20Game%20Dev&descAlignY=58&descSize=18" alt="Header banner" />
 </p>
 
 
@@ -9,7 +9,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Full--Stack%20Development-1f2937?style=for-the-badge&logo=codefactor&logoColor=white" alt="Full-Stack Development" />
-	<img src="https://img.shields.io/badge/Game%20Development-334155?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development" />
+	<img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Game%20Development-334155?style=for-the-badge" alt="Game Development" />
     <img src="https://img.shields.io/badge/Spring%20Boot%20Learning-0f766e?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Learning" />
 </p>
 
@@ -35,6 +35,7 @@ Right now, I am focused on learning Spring Boot and building REST APIs.
 	<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
 	<img src="https://skillicons.dev/icons?i=cs" alt="C Sharp" title="C Sharp" />
 	<img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" />
+	<img src="https://skillicons.dev/icons?i=godot" alt="Godot" title="Godot" />
 	<img src="https://skillicons.dev/icons?i=blender" alt="Blender" title="Blender" />
 </p>
 
