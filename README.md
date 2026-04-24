@@ -21,6 +21,8 @@ Alongside full-stack development, I also have interest and experience in game de
 
 Right now, I am focused on learning Spring Boot and building REST APIs.
 
+Also I am trying to learn by building my portfolio with Next.js + React :3
+
 ## Tech Stack
 
 <p align="center">
@@ -39,14 +41,13 @@ Right now, I am focused on learning Spring Boot and building REST APIs.
 	<img src="https://skillicons.dev/icons?i=blender" alt="Blender" title="Blender" />
 </p>
 
-## Current Focus
+## Next things I want to do:
 
-- Building a full-stack project with strong team collaboration.
-- Creating a portfolio website that presents my work clearly and professionally.
-- Improving my skills in API design, clean code, and real-world development workflows.
+- Build a full-stack project in a team for my master's final project.
+- Creating a portfolio website and learn through this experience more frameworks (such as next.js + react, as I said before).
 
-## Next Steps
+## Future planning
 
-- Finish and publish a full-stack project.
+- Finish and publish a full-stack project (by myself, to see the whole process from start to finish).
 - Build and refine my portfolio website.
-- Keep learning by shipping practical work consistently.
+- Keep learning by building and shipping more projects (the ideas are yet to come o.o).
