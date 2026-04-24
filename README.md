@@ -21,7 +21,7 @@ Alongside full-stack development, I also have interest and experience in game de
 
 Right now, I am focused on learning Spring Boot and building REST APIs.
 
-Also I am trying to learn by building my portfolio with Next.js + React :3
+Also I am building my portfolio FINALLY :3
 
 ## Tech Stack
 
